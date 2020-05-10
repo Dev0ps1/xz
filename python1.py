@@ -3,7 +3,6 @@ import os
 from bs4 import BeautifulSoup as bs
 import threading
 from datetime import datetime, timedelta
-from telebot import TeleBot
 import telebot
 import time
 import random
