@@ -8,9 +8,9 @@ import telebot
 import time
 import random
 
-bot = telebot.TeleBot('1237531967:AAH68xo2IzAVnt1s2SZZ6Y542L8Hcb-WHcM')
+bot = telebot.TeleBot('1237531967:AAH5yWFdIeVWSld8Gubzvt3j-oykm8lV39g')
 
-TOKEN = '1237531967:AAH68xo2IzAVnt1s2SZZ6Y542L8Hcb-WHcM'
+TOKEN = '1237531967:AAH5yWFdIeVWSld8Gubzvt3j-oykm8lV39g'
 
 chat_ids_file = 'chat_ids.txt'
 
