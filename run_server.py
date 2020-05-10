@@ -6,6 +6,7 @@ server = flask.Flask(__name__) #мой код начало
 
 APP_NAME = 'botproxys'
 TOKEN = '1237531967:AAH68xo2IzAVnt1s2SZZ6Y542L8Hcb-WHcM'
+bot = telebot.TeleBot("1237531967:AAH68xo2IzAVnt1s2SZZ6Y542L8Hcb-WHcM")
  
 @server.route('/' + TOKEN, methods=['POST'])
 def get_message():
