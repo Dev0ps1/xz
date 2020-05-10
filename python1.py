@@ -9,7 +9,6 @@ import time
 import random
 import flask
 from telebot import types
-from bot_handlers import bot
 
 server = flask.Flask(__name__) #мой код начало
 
