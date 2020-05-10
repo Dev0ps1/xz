@@ -1,8 +1,4 @@
-threading
-requests
-os
-pytelegrambotapi
-telebot
-time
-random
-bs4
+requests=2.7.0
+pytelegrambotapi=3.7.1
+telebot=0.0.3
+beautifulsoup4=4.7.1
