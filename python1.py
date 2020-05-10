@@ -3,12 +3,10 @@ import os
 from bs4 import BeautifulSoup as bs
 import threading
 from datetime import datetime, timedelta
+from telebot import TeleBot
 import telebot
 import time
 import random
-import flask
-from telebot import types
-from telebot import *
 
 bot = telebot.TeleBot('1237531967:AAH68xo2IzAVnt1s2SZZ6Y542L8Hcb-WHcM')
 
